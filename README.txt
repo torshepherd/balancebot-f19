@@ -1,6 +1,6 @@
 /*******************************************************************************
-*                           Balancebot Template Code
-*                           pgaskell@umich.edu
+*                                Balancebot Code
+*               Modified by tors@umich.edu from pgaskell@umich.edu
 *       
 *******************************************************************************/
 
